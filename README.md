@@ -1,3 +1,3 @@
 # Template
 
-This is a template
+This is a readme
